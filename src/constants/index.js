@@ -27,10 +27,6 @@ export const navLinks = [
     id: "work",
     title: "Work",
   },
-  {
-    id: "contact",
-    title: "Contact",
-  },
 ];
 
 const services = [
@@ -110,7 +106,7 @@ const technologies = [
 const experiences = [
   {
     title: "Senior Software Engineer (Team Lead)",
-    company_name: "Hashlogics",
+    company_name: "Confidential",
     icon: web,
     iconBg: "#383E56",
     date: "Sep 2025 - Present",
